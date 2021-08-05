@@ -1,1 +1,36 @@
-{"total":1800,"pulses":[{"price_per_kg":80,"name":"Arhar","weight":3,"totalPriceOfWeight":240},{"price_per_kg":80,"name":"Arhar","weight":2,"totalPriceOfWeight":160}],"wheats":[{"price_per_kg":56,"name":"Aashirvaad_atta","weight":5,"totalPriceOfWeight":280},{"price_per_kg":56,"name":"Aashirvaad_atta","weight":5,"totalPriceOfWeight":280}],"rice":[{"price_per_kg":70,"name":"Basmati","weight":7,"totalPriceOfWeight":490},{"price_per_kg":70,"name":"Basmati","weight":5,"totalPriceOfWeight":350}]}
+{
+	"total": 1800,
+	"pulses": [{
+		"price_per_kg": 80,
+		"name": "Arhar",
+		"weight": 3,
+		"totalPriceOfWeight": 240
+	}, {
+		"price_per_kg": 80,
+		"name": "Arhar",
+		"weight": 2,
+		"totalPriceOfWeight": 160
+	}],
+	"wheats": [{
+		"price_per_kg": 56,
+		"name": "Aashirvaad_atta",
+		"weight": 5,
+		"totalPriceOfWeight": 280
+	}, {
+		"price_per_kg": 56,
+		"name": "Aashirvaad_atta",
+		"weight": 5,
+		"totalPriceOfWeight": 280
+	}],
+	"rice": [{
+		"price_per_kg": 70,
+		"name": "Basmati",
+		"weight": 7,
+		"totalPriceOfWeight": 490
+	}, {
+		"price_per_kg": 70,
+		"name": "Basmati",
+		"weight": 5,
+		"totalPriceOfWeight": 350
+	}]
+}
